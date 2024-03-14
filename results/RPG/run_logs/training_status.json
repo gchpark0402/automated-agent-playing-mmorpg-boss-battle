@@ -1,0 +1,65 @@
+{
+    "RPG": {
+        "checkpoints": [
+            {
+                "steps": 3499239,
+                "file_path": "results\\RPG\\RPG\\RPG-3499239.onnx",
+                "reward": 4.296852652231852,
+                "creation_time": 1701721136.5268211,
+                "auxillary_file_paths": [
+                    "results\\RPG\\RPG\\RPG-3499239.pt"
+                ]
+            },
+            {
+                "steps": 3999540,
+                "file_path": "results\\RPG\\RPG\\RPG-3999540.onnx",
+                "reward": 0.4071338939666748,
+                "creation_time": 1701724215.0143604,
+                "auxillary_file_paths": [
+                    "results\\RPG\\RPG\\RPG-3999540.pt"
+                ]
+            },
+            {
+                "steps": 4499822,
+                "file_path": "results\\RPG\\RPG\\RPG-4499822.onnx",
+                "reward": 0.08533280471275592,
+                "creation_time": 1701727274.6220958,
+                "auxillary_file_paths": [
+                    "results\\RPG\\RPG\\RPG-4499822.pt"
+                ]
+            },
+            {
+                "steps": 4999831,
+                "file_path": "results\\RPG\\RPG\\RPG-4999831.onnx",
+                "reward": 6.045544760567801,
+                "creation_time": 1701730336.5261724,
+                "auxillary_file_paths": [
+                    "results\\RPG\\RPG\\RPG-4999831.pt"
+                ]
+            },
+            {
+                "steps": 5000154,
+                "file_path": "results\\RPG\\RPG\\RPG-5000154.onnx",
+                "reward": 5.724408231932541,
+                "creation_time": 1701730336.6715498,
+                "auxillary_file_paths": [
+                    "results\\RPG\\RPG\\RPG-5000154.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000154,
+            "file_path": "results\\RPG\\RPG.onnx",
+            "reward": 5.724408231932541,
+            "creation_time": 1701730336.6715498,
+            "auxillary_file_paths": [
+                "results\\RPG\\RPG\\RPG-5000154.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.1+cpu"
+    }
+}

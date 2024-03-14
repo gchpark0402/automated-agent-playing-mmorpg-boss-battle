@@ -1,0 +1,71 @@
+{
+    "increasement": {
+        "lesson_num": 4
+    },
+    "decreasement": {
+        "lesson_num": 4
+    },
+    "RPG1": {
+        "checkpoints": [
+            {
+                "steps": 1499525,
+                "file_path": "results\\RPG1\\RPG1\\RPG1-1499525.onnx",
+                "reward": -6.930384837664091,
+                "creation_time": 1701814048.9222505,
+                "auxillary_file_paths": [
+                    "results\\RPG1\\RPG1\\RPG1-1499525.pt"
+                ]
+            },
+            {
+                "steps": 1999582,
+                "file_path": "results\\RPG1\\RPG1\\RPG1-1999582.onnx",
+                "reward": -7.088857071740287,
+                "creation_time": 1701817757.6164665,
+                "auxillary_file_paths": [
+                    "results\\RPG1\\RPG1\\RPG1-1999582.pt"
+                ]
+            },
+            {
+                "steps": 2499812,
+                "file_path": "results\\RPG1\\RPG1\\RPG1-2499812.onnx",
+                "reward": -7.118919082590051,
+                "creation_time": 1701821493.4523141,
+                "auxillary_file_paths": [
+                    "results\\RPG1\\RPG1\\RPG1-2499812.pt"
+                ]
+            },
+            {
+                "steps": 2999865,
+                "file_path": "results\\RPG1\\RPG1\\RPG1-2999865.onnx",
+                "reward": -6.399000054597854,
+                "creation_time": 1701825276.1040576,
+                "auxillary_file_paths": [
+                    "results\\RPG1\\RPG1\\RPG1-2999865.pt"
+                ]
+            },
+            {
+                "steps": 3363697,
+                "file_path": "results\\RPG1\\RPG1\\RPG1-3363697.onnx",
+                "reward": -6.241538689686702,
+                "creation_time": 1701828146.9830134,
+                "auxillary_file_paths": [
+                    "results\\RPG1\\RPG1\\RPG1-3363697.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3363697,
+            "file_path": "results\\RPG1\\RPG1.onnx",
+            "reward": -6.241538689686702,
+            "creation_time": 1701828146.9830134,
+            "auxillary_file_paths": [
+                "results\\RPG1\\RPG1\\RPG1-3363697.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.1+cpu"
+    }
+}
