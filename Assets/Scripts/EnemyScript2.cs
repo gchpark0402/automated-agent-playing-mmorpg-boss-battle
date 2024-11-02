@@ -93,7 +93,7 @@ public class EnemyScript2 : MonoBehaviour
         rangeAttackCollider.SetActive(false);
         HP = 100;
         difficulty = Academy.Instance.EnvironmentParameters.GetWithDefault("difficulty", 2);
-        increasement = Academy.Instance.EnvironmentParameters.GetWithDefault("increasement1", 1);
+        increasement = Academy.Instance.EnvironmentParameters.GetWithDefault("increasement1", 0.5f);
         decreasement = Academy.Instance.EnvironmentParameters.GetWithDefault("decreasement1", 1);
         animator = this.GetComponent<Animator>();
 
@@ -146,8 +146,8 @@ public class EnemyScript2 : MonoBehaviour
         if (!isAttacking)
         {
             isLooking = true;
-            attackType = Random.Range(1, 12);
-            increasement = Academy.Instance.EnvironmentParameters.GetWithDefault("increasement", 1);
+            attackType = Random.Range(11, 12);
+            increasement = Academy.Instance.EnvironmentParameters.GetWithDefault("increasement", 0.5f);
             decreasement = Academy.Instance.EnvironmentParameters.GetWithDefault("decreasement", 1);
 
             DebugMsg(attackType.ToString());

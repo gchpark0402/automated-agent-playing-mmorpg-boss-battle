@@ -43,7 +43,7 @@ public class AgentAttackScript : MonoBehaviour
                 
                 isAttack = true;
                 //Debug.Log("attack!");
-                other.GetComponent<EnemyScript1>().Hit(other.bounds.ClosestPoint(transform.position));
+                //other.GetComponent<EnemyScript1>().Hit(other.bounds.ClosestPoint(transform.position));
             }
         }
     }

@@ -1,0 +1,35 @@
+{
+    "increasement": {
+        "lesson_num": 0
+    },
+    "decreasement": {
+        "lesson_num": 0
+    },
+    "RPG_ex": {
+        "checkpoints": [
+            {
+                "steps": 3242,
+                "file_path": "results\\RPG_ex\\RPG_ex\\RPG_ex-3242.onnx",
+                "reward": -20.053519097520557,
+                "creation_time": 1712322850.6517653,
+                "auxillary_file_paths": [
+                    "results\\RPG_ex\\RPG_ex\\RPG_ex-3242.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3242,
+            "file_path": "results\\RPG_ex\\RPG_ex.onnx",
+            "reward": -20.053519097520557,
+            "creation_time": 1712322850.6517653,
+            "auxillary_file_paths": [
+                "results\\RPG_ex\\RPG_ex\\RPG_ex-3242.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.1+cpu"
+    }
+}

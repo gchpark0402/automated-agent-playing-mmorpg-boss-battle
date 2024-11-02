@@ -8,58 +8,58 @@
     "RPG1": {
         "checkpoints": [
             {
-                "steps": 1499525,
-                "file_path": "results\\RPG1\\RPG1\\RPG1-1499525.onnx",
-                "reward": -6.930384837664091,
-                "creation_time": 1701814048.9222505,
+                "steps": 3499647,
+                "file_path": "results\\RPG1\\RPG1\\RPG1-3499647.onnx",
+                "reward": -7.435333426793417,
+                "creation_time": 1710608270.5166922,
                 "auxillary_file_paths": [
-                    "results\\RPG1\\RPG1\\RPG1-1499525.pt"
+                    "results\\RPG1\\RPG1\\RPG1-3499647.pt"
                 ]
             },
             {
-                "steps": 1999582,
-                "file_path": "results\\RPG1\\RPG1\\RPG1-1999582.onnx",
-                "reward": -7.088857071740287,
-                "creation_time": 1701817757.6164665,
+                "steps": 3999824,
+                "file_path": "results\\RPG1\\RPG1\\RPG1-3999824.onnx",
+                "reward": -4.890625223517418,
+                "creation_time": 1710611307.166637,
                 "auxillary_file_paths": [
-                    "results\\RPG1\\RPG1\\RPG1-1999582.pt"
+                    "results\\RPG1\\RPG1\\RPG1-3999824.pt"
                 ]
             },
             {
-                "steps": 2499812,
-                "file_path": "results\\RPG1\\RPG1\\RPG1-2499812.onnx",
-                "reward": -7.118919082590051,
-                "creation_time": 1701821493.4523141,
+                "steps": 4499839,
+                "file_path": "results\\RPG1\\RPG1\\RPG1-4499839.onnx",
+                "reward": -2.2786361195824365,
+                "creation_time": 1710614322.0834472,
                 "auxillary_file_paths": [
-                    "results\\RPG1\\RPG1\\RPG1-2499812.pt"
+                    "results\\RPG1\\RPG1\\RPG1-4499839.pt"
                 ]
             },
             {
-                "steps": 2999865,
-                "file_path": "results\\RPG1\\RPG1\\RPG1-2999865.onnx",
-                "reward": -6.399000054597854,
-                "creation_time": 1701825276.1040576,
+                "steps": 4999941,
+                "file_path": "results\\RPG1\\RPG1\\RPG1-4999941.onnx",
+                "reward": -7.04749984400613,
+                "creation_time": 1710617350.7230527,
                 "auxillary_file_paths": [
-                    "results\\RPG1\\RPG1\\RPG1-2999865.pt"
+                    "results\\RPG1\\RPG1\\RPG1-4999941.pt"
                 ]
             },
             {
-                "steps": 3363697,
-                "file_path": "results\\RPG1\\RPG1\\RPG1-3363697.onnx",
-                "reward": -6.241538689686702,
-                "creation_time": 1701828146.9830134,
+                "steps": 5000727,
+                "file_path": "results\\RPG1\\RPG1\\RPG1-5000727.onnx",
+                "reward": -6.624827434276712,
+                "creation_time": 1710617350.85914,
                 "auxillary_file_paths": [
-                    "results\\RPG1\\RPG1\\RPG1-3363697.pt"
+                    "results\\RPG1\\RPG1\\RPG1-5000727.pt"
                 ]
             }
         ],
         "final_checkpoint": {
-            "steps": 3363697,
+            "steps": 5000727,
             "file_path": "results\\RPG1\\RPG1.onnx",
-            "reward": -6.241538689686702,
-            "creation_time": 1701828146.9830134,
+            "reward": -6.624827434276712,
+            "creation_time": 1710617350.85914,
             "auxillary_file_paths": [
-                "results\\RPG1\\RPG1\\RPG1-3363697.pt"
+                "results\\RPG1\\RPG1\\RPG1-5000727.pt"
             ]
         }
     },
