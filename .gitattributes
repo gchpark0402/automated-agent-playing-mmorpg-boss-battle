@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.psd filter=lfs diff=lfs merge=lfs -text
+Z:/Programming/automated-agent-playing-mmorpg-boss-battle/Assets/Asset/Fristy[[:space:]]Fantasy[[:space:]]Lands[[:space:]]1/Fristy[[:space:]]Fantasy[[:space:]]Lands[[:space:]]1/Meshes filter=lfs diff=lfs merge=lfs -text
