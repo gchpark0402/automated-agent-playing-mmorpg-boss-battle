@@ -52,7 +52,7 @@ public class GameController : MonoBehaviour
     public GameObject RoundBossHP;
     public GameObject DPS;
     public GameObject MinBossHP;
-    public GameObject RoundDPS;
+    //public GameObject RoundDPS;
 
 
     public int trial;
@@ -113,7 +113,7 @@ public class GameController : MonoBehaviour
         DPS.GetComponent<TextMeshProUGUI>().text = "DPS : " + dps.ToString() + " : " + dps2.ToString();
 
         MinBossHP.GetComponent<TextMeshProUGUI>().text = "MinBossHP : " + minBossHP.ToString() + " : " + minBossHP2.ToString();
-        RoundDPS.GetComponent<TextMeshProUGUI>().text = "RoundDPS : " + roundDps.ToString() + " : " + roundDps2.ToString();
+        //RoundDPS.GetComponent<TextMeshProUGUI>().text = "RoundDPS : " + roundDps.ToString() + " : " + roundDps2.ToString();
 
         time += Time.deltaTime;
         time2 += Time.deltaTime;
