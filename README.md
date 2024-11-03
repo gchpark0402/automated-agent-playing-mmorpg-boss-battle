@@ -37,4 +37,4 @@
 ---
 #### 영상
 
-[![](http://img.youtube.com/vi/DT2CJnAG5Qo&t=1s/0.jpg)](https://youtu.be/watch?v=DT2CJnAG5Qo&t=1s)
+* <https://youtu.be/watch?v=DT2CJnAG5Qo&t=1s>
