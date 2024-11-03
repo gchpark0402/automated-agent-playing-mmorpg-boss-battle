@@ -1,4 +1,4 @@
-# Curriculum Learning을 활용한 MMORPG 스타일의 보스전 자동화 에이전트 구현
+## Curriculum Learning을 활용한 MMORPG 스타일의 보스전 자동화 에이전트 구현
 ---
 #### 프로젝트 소개
 
@@ -19,16 +19,6 @@
 
 * CompareCurriculum scene - Curriculum learning 방법론을 사용한 model과 사용하지 않은 model의 결과를 측정하기 위해 만든 scene입니다.
 * CurriculumLearningScene, PPOLearningScene - ML Agent를 사용해 model을 학습시키기 위해 만든 scene입니다.
-
----
-#### Reward Shaping
-
-
----
-#### Curriculum
-
----
-#### 실험 결과
 
 ---
 #### 논문
