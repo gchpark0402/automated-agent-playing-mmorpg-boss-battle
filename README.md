@@ -12,4 +12,4 @@
 
 ---
 #### 영상
-*<https://www.youtube.com/watch?v=DT2CJnAG5Qo&t=1s>
+* <https://www.youtube.com/watch?v=DT2CJnAG5Qo&t=1s>
