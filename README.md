@@ -8,7 +8,7 @@
  
 ---
 #### 논문
-* 해당 논문 : <https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862417>
+* Curriculum Learning을 활용한 MMORPG 스타일의 보스전 자동화 에이전트 구현 : <https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862417>
 
 ---
 #### 영상
